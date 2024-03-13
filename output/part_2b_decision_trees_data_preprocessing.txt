@@ -1,0 +1,16 @@
+Dataset: UCI Breast Cancer dataset
+Number of cases removed: 9
+Cases: 277
+Attributes: 10
+
+original column name: number of the binary columns generated 
+Class: 1 
+age: 9 
+menopause: 3 
+tumor-size: 12 
+inv-nodes: 13 
+node-caps: 1 
+deg-malig: 1 
+breast: 2 
+breast-quad: 5 
+irradiat: 1

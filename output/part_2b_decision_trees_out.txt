@@ -1,0 +1,5 @@
+Decision Tree classifier
+criterion: entropy
+max depth: 2
+accuracy: 0.7857
+balanced accuracy: 0.6625

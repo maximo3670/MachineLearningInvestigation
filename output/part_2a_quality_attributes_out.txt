@@ -1,0 +1,24 @@
+Attribute: Headache
+Contingency Table:
+[[3 1]
+ [2 4]]
+Information Gain: 0.12451124978365313
+Gini Impurity: 0.08333333333333331
+Chi-Squared: 1.6666666666666665
+
+Attribute: Spots
+Contingency Table:
+[[4 2]
+ [1 3]]
+Information Gain: 0.12451124978365313
+Gini Impurity: 0.08333333333333331
+Chi-Squared: 1.6666666666666665
+
+Attribute: Stiff-Neck
+Contingency Table:
+[[4 1]
+ [1 4]]
+Information Gain: 0.2780719051126377
+Gini Impurity: 0.18000000000000016
+Chi-Squared: 3.6
+
